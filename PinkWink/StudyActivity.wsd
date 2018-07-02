@@ -1,0 +1,12 @@
+@startuml study activities
+|Swimlane 1|
+start
+:1. Jupyter Notebook 설치와 VS Code 연동하기;
+:2.1. 읽어 보기 / 익숙해지기 (1장 ~ 3장);
+
+|#AntiqueWhite|Swimlane 2|
+:2.2. 구현 (1장 ~ 3장);
+
+|Swimlane 1|
+stop
+@enduml
