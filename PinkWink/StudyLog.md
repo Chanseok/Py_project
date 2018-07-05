@@ -1,9 +1,3 @@
-## 두 번째 Log 2018-07-??, ?요일
-
-
-
-- - -
-## 첫번째 Log ~ 2018-06-30, 토요일
 ## 1. Jupyter Notebook 설치와 VS Code 연동하기
 vscode와 Jupyter notebook과 연동하는 방법을 만드느라고 시간을 꽤 소모했음..  
 그런데 알고보니 Jupyter Notebook 실행 console에 아래와 같은 log가 있더군요.  
@@ -42,4 +36,11 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 이렇게 해결했습니다. 
 
 
+- - -
+
+## 두 번째 Log 2018-07-??, ?요일
+
+
+## 첫번째 Log ~ 2018-06-30, 토요일
+StudyLog.md 파일을 생성하고 어떻게 학습한 내용을 정리할 지 전체적인 틀, 초안을 만들었습니다. 
 - - -
