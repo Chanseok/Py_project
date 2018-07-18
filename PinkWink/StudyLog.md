@@ -37,6 +37,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 
 - - -
+<<<<<<< HEAD
 ## 세 번째 Log 2018-07-18, 수요일
 Jupyter Notebook으로 연결하는 경우에는 아래 경로가 실행이 되고
     C:\Program Files (x86)\Microsoft Visual Studio\Shared\Anaconda3_64
@@ -46,6 +47,19 @@ pip 명령어를 어느 위치에서 실행시켰나에 따라 엉뚱한 결과�
 
 ## 두 번째 Log 2018-07-??, ?요일
 
+=======
+## 세 번째 Log 2018-07-06, 금요일
+numpy의 polyfit과 같은 그래프 쓰는 법이 궁금해서 
+아침에 출근하면서 오다가 읽은 글인데 정말 정리를 잘 해두셨네요
+정리한 format인 Jupyter Notebook도 문서화 관점에서 엄청난 효용이 있는 걸 확인했고요 
+* http://taewan.kim/post/numpy_cheat_sheet/  
+정작 궁금했던 polyfit 관련 글은 읽어 보지 못했네요. (찾아만 두었습니다.)
+* http://pinkwink.kr/1127  
+
+## 두 번째 Log 2018-07-05, 목요일
+그동안 pandas, numpy 기본 익히기에 해당하는 1장에 있는 절들을 code practice하다가
+드디어 CCTV와 자치구별 인구수 데이터 분석하기로 다시 돌아왔습니다. 
+>>>>>>> b5365eeff933057e9631f4b0b65807d7d367cd84
 
 ## 첫번째 Log ~ 2018-06-30, 토요일
 StudyLog.md 파일을 생성하고 어떻게 학습한 내용을 정리할 지 전체적인 틀, 초안을 만들었습니다. 
