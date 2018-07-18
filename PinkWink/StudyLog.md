@@ -37,6 +37,12 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 
 - - -
+## 세 번째 Log 2018-07-18, 수요일
+Jupyter Notebook으로 연결하는 경우에는 아래 경로가 실행이 되고
+    C:\Program Files (x86)\Microsoft Visual Studio\Shared\Anaconda3_64
+PC의 환경 변수 Path 상으로는 아래 경로가 실행이 되어서
+    C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64
+pip 명령어를 어느 위치에서 실행시켰나에 따라 엉뚱한 결과가 나올 수 있네요. 
 
 ## 두 번째 Log 2018-07-??, ?요일
 
